@@ -1,0 +1,4 @@
+USER-AGENT,monsterstrike*
+USER-AGENT,ms*
+
+DOMAIN-KEYWORD,monster-strike.com
